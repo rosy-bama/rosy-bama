@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosy-bama
-- 👀 I’m interested in Backend Development and Product Management
-- 🌱 I’m currently learning NestJs with Prisma ORM
+- 👀 I’m interested in **Backend Development** and **Product Management**
+- 🌱 I’m currently learning **NestJs** with **Prisma**
 - 💞️ I’m looking to collaborate on https://univers.appstechlab.com
 - 📫 How to reach me rosy@appstechlabs.com
 
